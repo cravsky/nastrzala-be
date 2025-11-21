@@ -58,4 +58,4 @@ PORT=8080 npm start
 
 ## CORS
 
-CORS is enabled for all origins (`*`) with credentials support for local development.
+CORS is enabled for all origins (`*`) for local development.
